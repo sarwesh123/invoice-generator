@@ -3,7 +3,6 @@ A web application for generating invoices, built using React, provides an effici
 
 Features
 Create, Modify, Delete, and View Invoices: Seamlessly manage your invoices through a user-friendly interface.
-Redux Store Integration: Effectively manages application state using Redux for efficient data handling.
 Responsive Layout: Ensures a consistent and user-friendly experience across various devices and screen sizes.
 LocalStorage Integration: Utilizes browser's LocalStorage to store and retrieve data, providing persistence for invoices.
 Error Handling: Robust error handling implemented to gracefully manage unexpected scenarios and maintain application stability.
